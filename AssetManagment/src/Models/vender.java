@@ -11,13 +11,23 @@ package Models;
  */
 public class vender {
     private String venderName;
+    private int Id;
 
     public void setVenderName(String venderName) {
         this.venderName = venderName;
+    }
+
+    public void setId(int Id) {
+        this.Id = Id;
+    }
+
+    public int getId() {
+        return Id;
     }
     
     public String getVenderName() {
         return venderName;
     }
+    
     
 }
