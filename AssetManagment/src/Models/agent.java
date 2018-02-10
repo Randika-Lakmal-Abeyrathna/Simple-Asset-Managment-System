@@ -15,6 +15,11 @@ public class agent {
     String name;
     String contact;
     String email;
+    private int id;
+
+    public void setId(int id) {
+        this.id = id;
+    }
 
     public void setContact(String contact) {
         this.contact = contact;
@@ -47,6 +52,11 @@ public class agent {
     public vender getVender() {
         return vender;
     }
+
+    public int getId() {
+        return id;
+    }
+
     
     
     

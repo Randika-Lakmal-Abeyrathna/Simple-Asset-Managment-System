@@ -3,13 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/MyProjects/AssetManagment/AssetManagment/src/Views/AgentRegistration.java</file>
-            <file>file:/D:/MyProjects/AssetManagment/AssetManagment/src/classes/database.java</file>
-            <file>file:/D:/MyProjects/AssetManagment/AssetManagment/src/Views/VenderRegistration.java</file>
-            <file>file:/D:/MyProjects/AssetManagment/AssetManagment/src/Models/agent.java</file>
+            <file>file:/D:/MyProjects/AssetManagment/AssetManagment/src/Models/assertDetails.java</file>
+            <file>file:/D:/MyProjects/AssetManagment/AssetManagment/src/Views/AssetRegistration.java</file>
+            <file>file:/D:/MyProjects/AssetManagment/AssetManagment/src/Models/assertType.java</file>
+            <file>file:/D:/MyProjects/AssetManagment/AssetManagment/src/Views/AssetDetailsRegistration.java</file>
+            <file>file:/D:/MyProjects/AssetManagment/AssetManagment/src/Controllers/assertTypeController.java</file>
+            <file>file:/D:/MyProjects/AssetManagment/AssetManagment/src/Controllers/assertDetailsController.java</file>
             <file>file:/D:/MyProjects/AssetManagment/AssetManagment/src/Controllers/agentController.java</file>
             <file>file:/D:/MyProjects/AssetManagment/AssetManagment/src/Controllers/venderController.java</file>
-            <file>file:/D:/MyProjects/AssetManagment/AssetManagment/src/Models/vender.java</file>
+            <file>file:/D:/MyProjects/AssetManagment/AssetManagment/src/Controllers/assetController.java</file>
         </group>
     </open-files>
 </project-private>
